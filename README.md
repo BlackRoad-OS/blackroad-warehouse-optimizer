@@ -1,3 +1,9 @@
+# blackroad-warehouse-optimizer
+
+[![GitHub](https://img.shields.io/badge/GitHub-BlackRoad-OS-purple?style=for-the-badge&logo=github)](https://github.com/BlackRoad-OS/blackroad-warehouse-optimizer)
+[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](https://github.com/BlackRoad-OS/blackroad-warehouse-optimizer)
+[![BlackRoad](https://img.shields.io/badge/BlackRoad-OS-black?style=for-the-badge)](https://blackroad.io)
+
 # 🖤🛣️ BlackRoad Warehouse Optimizer
 
 Part of the BlackRoad Product Empire - 350+ enterprise solutions
